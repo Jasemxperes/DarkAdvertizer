@@ -1,7 +1,7 @@
 ﻿#--------------------------------------------------------------------------|Variebels For Api
 API_ID =27841353                                                          #-|
 API_HASH = '20c588b8a52c94f19c199acf2e602d68'                           #-|
-BOT_TOKEN= '1234567899:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'              #-| 
+BOT_TOKEN= '7805526354:AAFF88ZBhHJ63u_7RFToyinKGAovBlWcmBo'              #-| 
 OWNER= 2133923261                                                        #-|
 OWNER_USERNAME='@lIlIlI666IlIlIlI'                                  #-|
 #--------------------------------------------------------------------------| Robot Variebels
