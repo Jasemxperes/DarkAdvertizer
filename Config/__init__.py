@@ -20,7 +20,7 @@ PcVersion = ['Windows 7', 'Windows 8', 'Windows 8.1', 'Windows 8.2', 'Windows 10
 #-----------------------------------------------------------------------------------------------------
 #-----------------------------------------------------------------------------------------------------
 API=[['XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',1111111111],['XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',11111111111],['XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',1111111111]]
-BOT_USERNAME='YOUR BOT USERNAME'
+BOT_USERNAME='@Selfdahatbot'
 Photos_Path=r'/root/Advertiser/Data/Fake_Details/Photos'
 Fake_Details_Path=r'/root/Advertiser/Data/Fake_Details'
 Sessions=r'/root/Advertiser/Sessions'
