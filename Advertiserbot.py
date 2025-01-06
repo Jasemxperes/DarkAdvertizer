@@ -19,8 +19,6 @@ from pyrogram.enums import ParseMode
 from random import choice , randint
 from Data.DataBase import DataBase
 from datetime import datetime
-from pyromod import listen
-from time import sleep 
 from Config import (API_ID,
            OWNER_USERNAME,
                API_HASH,
