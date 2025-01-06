@@ -2,10 +2,10 @@
 API_ID =27841353                                                          #-|
 API_HASH = '20c588b8a52c94f19c199acf2e602d68'                           #-|
 BOT_TOKEN= '7805526354:AAFF88ZBhHJ63u_7RFToyinKGAovBlWcmBo'              #-| 
-OWNER= 2133923261                                                        #-|
+OWNER= 6665087628                                                        #-|
 OWNER_USERNAME='@lIlIlI666IlIlIlI'                                  #-|
 #--------------------------------------------------------------------------| Robot Variebels
-Banners_Channel='@CHANNEL WICH YOUR BANNERS SENDED'
+Banners_Channel='@Msdwow'
 #-----------------------------------------------------------------------------------------------------
 #-----------------------------------------------------------------------------------------------------
 AndroidPhone = ['Samsung Galaxy A20s', 'Samsung Galaxy A70', 'Samsung Galaxy A01', 'Samsung Galaxy A20','Samsung Galaxy A30s', 'Samsung Galaxy A51', 'Samsung Galaxy A21s', 'Samsung Galaxy A32','Samsung Galaxy A12', 'Xiaomi Poco X3 Pro ', 'Xiaomi Redmi Note 8 pro', 'Xiaomi Poco X3 Pro ','Xiaomi Redmi Note 8', 'Xiaomi Redmi Note 9 Pro', 'Xiaomi Redmi Note 9', 'Xiaomi Poco F3','Huawei Y7 Prime 2019', 'Huawei Y9 Prime 2019', 'Huawei Y6 Prime 2019 ', 'Huawei Honor 10','Asus ROG Phone 5s', 'Asus Zenfone 3 Deluxe']
