@@ -3,7 +3,7 @@ API_ID =27841353                                                          #-|
 API_HASH = '20c588b8a52c94f19c199acf2e602d68'                           #-|
 BOT_TOKEN= '1234567899:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'              #-| 
 OWNER= 2133923261                                                        #-|
-OWNER_USERNAME='YOUR_TELEGRAM_USERNAME'                                  #-|
+OWNER_USERNAME='@lIlIlI666IlIlIlI'                                  #-|
 #--------------------------------------------------------------------------| Robot Variebels
 Banners_Channel='@CHANNEL WICH YOUR BANNERS SENDED'
 #-----------------------------------------------------------------------------------------------------
